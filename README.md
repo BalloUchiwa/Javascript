@@ -1,2 +1,2 @@
 # Javascript
-Javascript for Fun
+A simple Rock Paper Scissors game ;-)
